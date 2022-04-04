@@ -12,9 +12,11 @@ Este projeto foi desenvolvido com o intuito de estudar o sistema de checkout do 
 - Typescript
 - JavaScript
 
+Install using git clone, then run yarn and lastly yarn start
+
 # Preview
 
-https://sejab2btestedefuncionalidade.netlify.app/
+https://checkbook-stripe.vercel.app
 
 
 
